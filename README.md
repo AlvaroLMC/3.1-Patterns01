@@ -6,8 +6,8 @@ This project contains a series of exercises designed to introduce and apply desi
 
 ## 🛠️ Technologies Used
 
-- Java 17
-- IntelliJ IDEA / Eclipse (any Java-compatible IDE)
+- Java 24
+- IntelliJ IDEA
 - Git
 - Oracle JDK or OpenJDK
 - Singleton Pattern
